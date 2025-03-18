@@ -1,6 +1,6 @@
-# Frybread Recipe
-This bread is a lot like funnel cake. It's a fluffy, light golden brown bread.
 <!DOCTYPE html>
+# Frybread Recipe
+This bread is a lot like funnel cake. It's a light fluffy golden brown bread.
 <html lang="en">
   <head>
     <meta charset="UTF-8">
