@@ -1,5 +1,5 @@
 # Frybread Recipe
-This bread is a lot like funnel cake. It's a fluffly, light golden brown bread.
+This bread is a lot like funnel cake. It's a fluffy, light golden brown bread.
 <!DOCTYPE html>
 <html lang="en">
   <head>
